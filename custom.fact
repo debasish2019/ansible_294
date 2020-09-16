@@ -1,0 +1,8 @@
+{
+"general": {
+   "packages": "httpd",
+   "service": "httpd",
+   "state": "started",
+   "enabled": "true"
+  }
+}
